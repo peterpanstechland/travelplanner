@@ -1,0 +1,10 @@
+fastapi==0.115.12
+uvicorn==0.34.0
+anthropic==0.49.0
+python-dotenv==1.0.1
+mcp-client==0.1.8
+websockets==12.0
+aiohttp==3.9.3
+python-multipart==0.0.9
+pydantic==2.6.4
+jinja2==3.1.4 
